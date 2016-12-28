@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=antergos
+Description=A theme that features a blank background with the antergos logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/antergos
+ScriptFile=/usr/share/plymouth/themes/antergos/antergos-script.script
